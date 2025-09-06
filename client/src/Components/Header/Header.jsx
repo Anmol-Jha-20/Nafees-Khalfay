@@ -238,7 +238,7 @@ const Header = () => {
                       href={item.href}
                       className={`block py-3 px-4 text-base font-semibold rounded-md transition-colors duration-200 flex-1 ${
                         item.isActive
-                          ? "text-gray-900 bg-yellow-400"
+                          ? "text-gray-700 hover:text-gray-900"
                           : "text-gray-700 hover:bg-gray-50"
                       }`}
                     >
@@ -279,7 +279,7 @@ const Header = () => {
               ))}
 
               <a
-                href="#"
+                href="/contact-us"
                 className="block py-3 px-4 text-base font-semibold text-gray-700 hover:bg-gray-50 rounded-md transition-colors duration-200"
               >
                 CONTACT

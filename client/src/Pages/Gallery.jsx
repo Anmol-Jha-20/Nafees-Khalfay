@@ -130,24 +130,23 @@ const GalleryPage = () => {
       {/* Hero Section */}
       <section
         style={{
-          backgroundImage: `url(${HeroImage})`,
+          backgroundImage: `url("https://5.imimg.com/data5/SELLER/Default/2020/11/TT/LK/JE/2478166/prefabricated-warehouse-500x500.jpg")`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           backgroundPosition: "center",
           width: "100%",
-          //   minHeight: "100vh",
+          opacity: "90%",
         }}
         className="relative bg-gradient-to-br from-yellow-400 via-yellow-500 to-yellow-600 text-white py-20 px-4 overflow-hidden"
       >
-        <div className="absolute inset-0 bg-black/10"></div>
         <div className="relative max-w-7xl mx-auto text-center">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-gray-900">
             Nafees Khalfay
             <span className="block text-3xl md:text-5xl mt-2">
               Structural & P.E.B. Consultant
             </span>
           </h1>
-          <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
+          <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-100 text-gray-800">
             Excellence in Structural Design Since 2007
           </p>
           {/* <div className="flex flex-wrap justify-center gap-4 text-sm md:text-base font-semibold">
@@ -162,6 +161,7 @@ const GalleryPage = () => {
             </span>
           </div> */}
         </div>
+        <div className="absolute inset-0 bg-black opacity-35"></div>
       </section>
 
       {/* <section className="py-16 px-4 bg-gray-50">
