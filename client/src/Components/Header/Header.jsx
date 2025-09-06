@@ -10,12 +10,12 @@ const Header = () => {
   const navigationItems = [
     {
       label: "HOME",
-      href: "#",
+      href: "/",
       isActive: true,
     },
     {
       label: "ABOUT US",
-      href: "#",
+      href: "/about-us",
     },
     {
       label: "OUR SERVICES",
@@ -32,7 +32,7 @@ const Header = () => {
     },
     {
       label: "GALLERY",
-      href: "#",
+      href: "/gallery",
     },
     // {
     //   label: "PAGES",
@@ -171,7 +171,7 @@ const Header = () => {
             ))}
 
             <a
-              href="#"
+              href="/contact-us"
               className="px-4 py-2 text-sm font-semibold text-gray-700 hover:text-gray-900 transition-colors duration-200"
             >
               CONTACT

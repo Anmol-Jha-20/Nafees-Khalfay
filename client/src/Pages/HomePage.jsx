@@ -9,12 +9,12 @@ import AboutSection from "../Components/AboutSection/AboutSection.jsx";
 function HomePage() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <HeroCarousel />
       <ServicesSection />
       <AboutSection />
       <TestimonialsSection />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

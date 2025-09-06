@@ -6,7 +6,7 @@ const ServicesSection = () => {
       id: 1,
       title: "Structural Design Consultant Services",
       description:
-        "Pioneers in the industry, we offer Industrial Shed Design, Sky Walk Design Consultants, Formwork Design Consultant, Prefabricated Structures ,, Structural Steel Designing Services and Industrial Sheds . from India.",
+        "Pioneers in the industry, we offer Industrial Shed Design, Sky Walk Design Consultants, Formwork Design Consultant, Prefabricated Structures , Structural Steel Designing Services and Industrial Sheds from India.",
       image:
         "https://5.imimg.com/data5/SELLER/Default/2024/7/436930908/UL/AB/KD/2478166/sky-walk-design-consultants-500x500.png",
     },
