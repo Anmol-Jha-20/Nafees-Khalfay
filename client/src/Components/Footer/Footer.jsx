@@ -212,7 +212,11 @@ const Footer = () => {
 
           {/* Elite Author Text */}
           <div className="text-gray-500 text-sm">
-            © Copyright 2025 Nafees Ahmed Hussain Khalfay - All Rights Reserved
+            © Copyright 2025 Nafees Khalfay Structural & P.E.B. Consultant.
+            Designed by&nbsp;
+            <a href="https://webvortexsolutions.com/" target="_main">
+              webvortexsolutions
+            </a>
           </div>
         </div>
       </div>

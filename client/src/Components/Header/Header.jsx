@@ -21,13 +21,25 @@ const Header = () => {
       label: "OUR SERVICES",
       href: "#",
       dropdown: [
-        { label: "Structural Design Consultant Services", href: "#" },
-        { label: "Civil Engineering Services", href: "#" },
-        { label: "Consultancy Services", href: "#" },
-        { label: "Structural Drawing Service", href: "#" },
-        { label: "Roof Design Services", href: "#" },
-        { label: "Architectural Services", href: "#" },
-        { label: "Pre Fabricated Structure", href: "#" },
+        {
+          label: "Structural Design Consultant Services",
+          href: "/structural-design-consultant-services",
+        },
+        {
+          label: "Civil Engineering Services",
+          href: "/civil-engineering-service",
+        },
+        { label: "Consultancy Services", href: "/consultancy-services" },
+        {
+          label: "Structural Drawing Service",
+          href: "/structural-drawing-service",
+        },
+        { label: "Roof Design Services", href: "/roof-design-services" },
+        { label: "Architectural Services", href: "/architectural-services" },
+        {
+          label: "Pre Fabricated Structure",
+          href: "/pre-fabricated-structure",
+        },
       ],
     },
     {
@@ -158,7 +170,7 @@ const Header = () => {
                         <a
                           key={dropdownIndex}
                           href={dropdownItem.href}
-                          className="block px-4 py-3 text-sm text-gray-700 hover:bg-yellow-50 hover:text-gray-900 transition-colors duration-200 border-b border-gray-100 last:border-b-0"
+                          className="block px-4 py-3 text-sm text-gray-700 hover:bg-yellow-400 hover:text-gray-900 transition-colors duration-200 border-b border-gray-100 last:border-b-0"
                         >
                           <span className="text-yellow-500 mr-2">•</span>
                           {dropdownItem.label}

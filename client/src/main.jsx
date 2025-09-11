@@ -7,6 +7,13 @@ import HomePage from "./Pages/HomePage.jsx";
 import AboutPage from "./Pages/AboutPage.jsx";
 import GalleryPage from "./Pages/Gallery.jsx";
 import ContactPage from "./Pages/Contact.jsx";
+import StructuralDesign from "./Pages/ServicesPages/StructuralDesign.jsx";
+import CivilEngineering from "./Pages/ServicesPages/CivilEngineering.jsx";
+import ConsultancyService from "./Pages/ServicesPages/ConsultancyService.jsx";
+import StructuralDrawingService from "./Pages/ServicesPages/StructuralDrawingService.jsx";
+import RoofDesignService from "./Pages/ServicesPages/RoofDesignService.jsx";
+import ArchitecturalServices from "./Pages/ServicesPages/ArchitecturalServices.jsx";
+import PreFabricatedStructure from "./Pages/ServicesPages/PreFabricatedStructure.jsx";
 
 const router = createBrowserRouter([
   {
@@ -28,6 +35,34 @@ const router = createBrowserRouter([
       {
         path: "/contact-us",
         element: <ContactPage />,
+      },
+      {
+        path: "/structural-design-consultant-services",
+        element: <StructuralDesign />,
+      },
+      {
+        path: "/civil-engineering-service",
+        element: <CivilEngineering />,
+      },
+      {
+        path: "/consultancy-services",
+        element: <ConsultancyService />,
+      },
+      {
+        path: "/structural-drawing-service",
+        element: <StructuralDrawingService />,
+      },
+      {
+        path: "/roof-design-services",
+        element: <RoofDesignService />,
+      },
+      {
+        path: "/architectural-services",
+        element: <ArchitecturalServices />,
+      },
+      {
+        path: "/pre-fabricated-structure",
+        element: <PreFabricatedStructure />,
       },
     ],
   },
