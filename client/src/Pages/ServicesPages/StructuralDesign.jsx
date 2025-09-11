@@ -72,10 +72,10 @@ function StructuralDesign() {
       description:
         "Counting on our extensive industry expertise, we offer our clients with premium quality range of Industrial Shed Design or Factory Shed Design Consultants. Our designs are highly acclaimed for being versatile, durable and cost effective. Further, these structures are specific to commercial building designs.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "Versatile Layouts",
+        "Structural Durability",
+        "Cost Efficiency",
+        "Expert Consultation",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -91,10 +91,10 @@ function StructuralDesign() {
       description:
         "Our organization is recognized as a leading provider of Skywalk Design Consultancy. Our solutions are highly demanded for their superior quality, innovative design, and compliance with industry standards. Developed using top-grade components and the latest technology, each project is rigorously tested to ensure flawless execution.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Innovative Design",
+        "Superior Quality",
+        "Standards Compliance",
+        "Trusted Expertise",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
@@ -110,10 +110,10 @@ function StructuralDesign() {
       description:
         "With years of experience, we offer expert Formwork Design Consultancy and Shuttering Support Systems tailored to client needs. Our ready-to-install structures are known for their strength, durability, and resistance to corrosion and harsh weather.",
       features: [
-        "6-Color Printing",
-        "Large Format",
-        "Advanced Controls",
-        "High Volume Output",
+        "Customized Solutions",
+        "High Durability",
+        "Corrosion Resistance",
+        "Weather-Proof Design",
       ],
       price: "Get Latest Price",
       originalPrice: "₹1,45,00,000",

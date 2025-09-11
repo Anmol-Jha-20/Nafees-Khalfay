@@ -71,10 +71,10 @@ function RoofDesignService() {
       description:
         "We specialize in providing advanced Space Frame Design solutions that combine structural integrity with architectural elegance. With a focus on innovation and precision, our space frame designs are engineered to cover large spans with minimal material usage, ensuring both strength and economy. Our team works closely with clients to understand their specific project requirements and delivers customized solutions suitable for industrial buildings, commercial complexes, airports, stadiums, and other large-scale structures.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "Innovative Engineering",
+        "Architectural Elegance",
+        "Material Efficiency",
+        "Large Span Coverage",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -86,10 +86,10 @@ function RoofDesignService() {
       description:
         "We are dedicate engaged to continuous offer an extensive range of Roof Design Services. Our entire services are widely appreciated among our clients. They are known for their long life and dimensional accuracy. We are committed for the time frame execution for our assignments along with unmatched quality. Backed by a team of experts, our services are executed using optimum machinery and advance technology. Furthermore, this service is availed at leading prices.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Long-Lasting Durability",
+        "Dimensional Accuracy",
+        "Timely Execution",
+        "Unmatched Quality",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
@@ -103,10 +103,10 @@ function RoofDesignService() {
       description:
         "We offer precise and reliable Steel Detailing services, tailored to meet the specific standards and requirements of our clients. Backed by years of experience and technical expertise, our detailing solutions are designed to support fabrication, erection, and construction processes with complete accuracy. Our team specializes in producing comprehensive structural steel drawings, including shop drawings, erection plans, and material lists.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Precision Detailing",
+        "Client-Specific Standards",
+        "Fabrication Support",
+        "Experienced Expertise",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",

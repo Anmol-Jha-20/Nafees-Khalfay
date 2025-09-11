@@ -3,6 +3,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 // import { useNavigate } from "react-router-dom";
 import HeroImage from "../../assets/HeroImage.png";
 import HeroImage3 from "../../assets/HeroImage3.webp";
+import ArchitecturalImage from "../../assets/architecturalimage.webp";
 
 const HeroCarousel = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -25,8 +26,7 @@ const HeroCarousel = () => {
       subtitle: "quality and results!",
       description:
         "Nafees Khalfay – Pioneering Structural & P.E.B. Solutions with Vision, Precision, and Excellence since 2007.",
-      image:
-        "https://img.freepik.com/free-photo/view-modern-construction-site_23-2151317241.jpg?t=st=1756983225~exp=1756986825~hmac=fe20bd7de886b26bb6c1fa5d13244fb67c6ef134e403332541f3dbf731cbfa24&w=1060",
+      image: ArchitecturalImage,
       alt: "Construction site with worker reviewing blueprints",
     },
     {

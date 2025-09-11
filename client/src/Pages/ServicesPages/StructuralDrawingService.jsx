@@ -71,10 +71,10 @@ function StructuralDrawingService() {
       description:
         "We are a prominent Service Provider engaged in offering a comprehensive range of Services for Structural Designs for Buildings. We provide detailing Services of R.C.C. Consulting, CAD CAM and Steel Buildings Designing.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "Detailed Drafting",
+        "RCC & Steel Integration",
+        "CAD/CAM Precision",
+        "Code-Compliant Design",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -88,10 +88,10 @@ function StructuralDrawingService() {
       description:
         "We are a prominent Service Provider engaged in offering a comprehensive range of Services for Structural Designs for Buildings. We provide detailing Services of R.C.C. Consulting, CAD CAM and Steel Buildings Designing.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Accurate Detailing",
+        "Fabrication-Ready Drawings",
+        "RCC & Steel Coordination",
+        "Timely Delivery",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",

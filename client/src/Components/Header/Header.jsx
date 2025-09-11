@@ -170,7 +170,7 @@ const Header = () => {
                         <a
                           key={dropdownIndex}
                           href={dropdownItem.href}
-                          className="block px-4 py-3 text-sm text-gray-700 hover:bg-yellow-400 hover:text-gray-900 transition-colors duration-200 border-b border-gray-100 last:border-b-0"
+                          className="block px-4 py-3 text-sm text-gray-700 hover:bg-yellow-400 hover:text-white transition-colors duration-200 border-b border-gray-100 last:border-b-0"
                         >
                           <span className="text-yellow-500 mr-2">•</span>
                           {dropdownItem.label}

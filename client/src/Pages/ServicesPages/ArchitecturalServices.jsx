@@ -73,10 +73,10 @@ function ArchitecturalServices() {
       description:
         "Our Industrial Architectural Service is tailored to meet the complex functional and structural needs of industrial facilities. We specialize in designing efficient, sustainable, and scalable architectural solutions for factories, warehouses, manufacturing units, and other industrial establishments. With a deep understanding of industrial workflows, safety regulations, and spatial requirements, our team delivers designs that optimize space utilization, enhance operational efficiency, and ensure regulatory compliance.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "Functional Design",
+        "Sustainable Solutions",
+        "Scalable Architecture",
+        "Industry-Specific Expertise",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -90,10 +90,10 @@ function ArchitecturalServices() {
       description:
         "We offer precise and detailed Fabrication Drawing Services that serve as a vital link between design and manufacturing. Our services are tailored to meet the specific requirements of fabricators, contractors, and engineers, ensuring accurate translation of structural and architectural designs into fabrication-ready drawings. Utilizing advanced CAD software and industry standards, our team prepares clear and comprehensive fabrication drawings that include dimensions, material specifications, welding details, cutting lists, and assembly instructions.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Precision Drawings",
+        "Design-to-Manufacture Link",
+        "Fabricator-Centric",
+        "Accurate Translation",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
@@ -107,10 +107,10 @@ function ArchitecturalServices() {
       description:
         "We provide high-quality 2D CAD Design Services to support architectural, structural, and industrial projects with precise and accurate technical drawings. Our services cater to a wide range of industries, including construction, fabrication, and engineering, ensuring seamless communication between design and execution teams. Using advanced CAD software and adhering to client-specific standards, our experienced team develops detailed layout plans, elevations, sections, and fabrication drawings.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Technical Precision",
+        "Cross-Industry Support",
+        "Clear Communication",
+        "Accurate Documentation",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",

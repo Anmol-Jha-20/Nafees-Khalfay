@@ -1,4 +1,5 @@
 import React from "react";
+import ArchitecturalImage from "../../assets/architecturalimage.webp";
 
 const ServicesSection = () => {
   const services = [
@@ -47,8 +48,7 @@ const ServicesSection = () => {
       title: "Architectural Services",
       description:
         "Providing you the best range of Industrial Architectural Service, Fabrication Drawing Services and 2d Cad Design Service with effective & timely delivery.",
-      image:
-        "https://5.imimg.com/data5/SELLER/Default/2025/1/478071479/VO/LG/YK/2478166/industrial-architectural-service-500x500.jpeg",
+      image: ArchitecturalImage,
     },
     {
       id: 7,

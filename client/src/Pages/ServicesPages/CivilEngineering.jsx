@@ -68,10 +68,10 @@ function CivilEngineering() {
       description:
         "We are a prominent Service Provider engaged in offering a comprehensive range of Services for Structural Designs for Buildings. We provide detailing Services of R.C.C. Consulting, CAD CAM and Steel Buildings Designing.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "Comprehensive Design",
+        "R.C.C. Expertise",
+        "CAD/CAM Precision",
+        "Steel Structure Solutions",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -87,10 +87,10 @@ function CivilEngineering() {
       description:
         "Our organization is recognized as a leading provider of Skywalk Design Consultancy. Our solutions are highly demanded for their superior quality, innovative design, and compliance with industry standards. Developed using top-grade components and the latest technology, each project is rigorously tested to ensure flawless execution.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Innovative Solutions",
+        "High Structural Integrity",
+        "Standards Compliance",
+        "Expert Analysis",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
@@ -104,10 +104,10 @@ function CivilEngineering() {
       description:
         "We are a prominent Service Provider engaged in offering a comprehensive range of Services for Structural Designs for Buildings. We provide detailing Services of R.C.C. Consulting, CAD CAM and Steel Buildings Designing.",
       features: [
-        "6-Color Printing",
-        "Large Format",
-        "Advanced Controls",
-        "High Volume Output",
+        "Detailed RCC Design",
+        "Structural Accuracy",
+        "CAD/CAM Integration",
+        "Building Code Compliance",
       ],
       price: "Get Latest Price",
       originalPrice: "₹1,45,00,000",

@@ -10,7 +10,7 @@ import {
   Zap,
   Shield,
 } from "lucide-react";
-import HeroImage from "../assets/HeroImage.png";
+import CivilEngineeringImage from "../assets/Civilengineering.webp";
 
 const GalleryPage = () => {
   const [selectedImage, setSelectedImage] = useState(null);
@@ -130,7 +130,7 @@ const GalleryPage = () => {
       {/* Hero Section */}
       <section
         style={{
-          backgroundImage: `url("https://5.imimg.com/data5/SELLER/Default/2020/11/TT/LK/JE/2478166/prefabricated-warehouse-500x500.jpg")`,
+          backgroundImage: `url(${CivilEngineeringImage})`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           backgroundPosition: "center",

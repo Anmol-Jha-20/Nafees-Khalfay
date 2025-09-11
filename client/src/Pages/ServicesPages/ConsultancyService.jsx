@@ -68,10 +68,10 @@ function ConsultancyService() {
       description:
         "We are a prominent Service Provider engaged in offering a comprehensive range of Services for Structural Designs for Buildings. We provide detailing Services of R.C.C. Consulting, CAD CAM and Steel Buildings Designing.",
       features: [
-        "2-Color Printing",
-        "High Speed Operation",
-        "Precision Registration",
-        "Auto Plate Loading",
+        "End-to-End Solutions",
+        "Multidisciplinary Expertise",
+        "Precision Detailing",
+        "Modern Design Tools",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -87,10 +87,10 @@ function ConsultancyService() {
       description:
         "We offer expert Shed Designing Services tailored to meet the functional, structural, and aesthetic requirements of various industrial, commercial, and agricultural applications. Our designs focus on strength, durability, and cost-effectiveness, ensuring each shed structure is optimized for its intended use.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Function-Oriented Design",
+        "Structural Strength",
+        "Long-Lasting Durability",
+        "Cost-Effective Solutions",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
@@ -104,10 +104,10 @@ function ConsultancyService() {
       description:
         "We are a prominent service provider offering a comprehensive range of Roofing Design Services tailored to meet the structural and functional needs of industrial, commercial, and residential buildings. Our expertise includes designing durable, weather-resistant, and cost-effective roofing systems using a variety of materials such as metal sheets, RCC, tiles, and prefabricated components.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "Weather Resistance",
+        "Material Versatility",
+        "Structural Efficiency",
+        "Cost-Effective Roofing",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",

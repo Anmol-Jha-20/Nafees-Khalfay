@@ -72,10 +72,10 @@ function PreFabricatedStructure() {
       description:
         "Being one of the top service providers, we are involved in offering perfect Pre Engineered Building Consultant or Concrete and Steel Designing of Buildings to our valued clients. Our services are rendered by our experienced professionals who are well versed with the entire latest technologies and enable us to offer effective services to our clients. these Pre Engineered Buildings are designed and developed as per international industrial standards to ensure excellent finish, accurate dimensions and consistent performance.",
       features: [
-        "Fine finish",
-        "Excellent finish",
-        "Purpose specific",
-        "consistent performance",
+        "Expert Consultation",
+        "Concrete & Steel Design",
+        "Latest Technology",
+        "Efficient Solutions",
       ],
       price: "Get Latest Price",
       originalPrice: "₹55,00,000",
@@ -89,10 +89,10 @@ function PreFabricatedStructure() {
       description:
         "Our services range from 3D view (image & video) Interior Exterior animated walkthrough, Building design, Pre engineered building design & drafting, Architectural drawing. Architectural walkthrough Animation, Logo animation, Cartoon modelling animation, various colour scheme web design, graphic design and online marketing.",
       features: [
-        "2-Color Configuration",
-        "Advanced Automation",
-        "Quick Job Changes",
-        "Superior Print Quality",
+        "3D Visualization",
+        "Comprehensive Drafting",
+        "Architectural Animation",
+        "Integrated Design & Marketing",
       ],
       price: "Get Latest Price",
       originalPrice: "₹45,00,000",
