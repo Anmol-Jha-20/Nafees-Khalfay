@@ -161,10 +161,10 @@ function StructuralDesign() {
       description:
         "Industrial Shed offered by us come in easy to install finish designs as well as in safe and secure construction finish which makes these provide for lasting usage. Further, the superior designs of the sheds also make these provide for maximized inner space.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Easy Installation",
+        "Durable Construction",
+        "Maximized Space",
+        "Safe Structure",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -180,10 +180,10 @@ function StructuralDesign() {
       description:
         "Our Prefabricated Buildings are highly sought after for their modern design, quick installation, and structural durability. Engineered for efficiency and built with high-quality materials, they offer a cost-effective and reliable solution for residential, commercial, and industrial applications.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Modern Design",
+        "Quick Installation",
+        "Structural Durability",
+        "Cost-Effective Solution",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -199,10 +199,10 @@ function StructuralDesign() {
       description:
         "Owing to our expertise this domain, we are highly engaged to providing the best quality range of Steel Structure Designing Services to prestigious clients. Our dexterous professionals construct this structure by using high class raw material. ",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Expert Design",
+        "High-Quality Materials",
+        "Skilled Professionals",
+        "Reliable Construction",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -218,10 +218,10 @@ function StructuralDesign() {
       description:
         "We proving Industrial Design Services. We study & analyze target client categories, usage scenarios, the characteristics the product is intended to project, usage environment & ergonomics & devise products for Industrial Design to achieve desired form, fit & function.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Client-Centric Analysis",
+        "Ergonomic Design",
+        "Functional Efficiency",
+        "Strategic Planning",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -237,10 +237,10 @@ function StructuralDesign() {
       description:
         "Banking on the skills of our qualified team of professionals, we are instrumental in providing 3D Drawing Service. This 3D Drawing Service is provided by our team of skilled professionals who aims for customer’s satisfaction. Our service range is widely demanded by the clients of different industries.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "3D Drawing Expertise",
+        "Skilled Professionals",
+        "Industry-Focused Solutions",
+        "Customer Satisfaction",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -252,10 +252,10 @@ function StructuralDesign() {
       description:
         "We are pioneers in offering Structural Steel Design Services to the clients. Our professionals render these services only after considering the exact requirements of our prestigious clients. These services include site visits, concept design, concept development, construction documentation and liaison with architects, builders,Etc.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Client-Focused Design",
+        "Comprehensive Planning",
+        "On-Site Consultation",
+        "Collaborative Approach",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -272,10 +272,10 @@ function StructuralDesign() {
       description:
         "Industrial Structural Design Services involve the planning, analysis, and design of structural systems for industrial facilities such as factories, warehouses, plants, and refineries. These services ensure that structures are safe, durable, and capable of supporting heavy machinery, dynamic loads, and operational demands.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Load-Bearing Design",
+        "Durability Focused",
+        "Safety Assured",
+        "Industrial-Grade Solutions",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -291,10 +291,10 @@ function StructuralDesign() {
       description:
         "A Factory Design Consultant specializes in planning and optimizing the layout, workflow, and infrastructure of manufacturing facilities. Their role includes designing efficient factory layouts, selecting appropriate equipment placement, ensuring compliance with safety and regulatory standards, and improving overall production efficiency.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Efficient Layouts",
+        "Workflow Optimization",
+        "Regulatory Compliance",
+        "Production Efficiency",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -310,10 +310,10 @@ function StructuralDesign() {
       description:
         "We offer RCC Consulting Services to offer customers reliable RCC Design work support as per specific design requirements. We judiciously utilize the available resources to provide the best designs to our valued clients. We design RCC buildings as per latest IS codes.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Reliable RCC Design",
+        "Resource Optimization",
+        "IS Code Compliance",
+        "Custom Design Support",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -327,10 +327,10 @@ function StructuralDesign() {
       description:
         "We are one of the best and fastest solutions for . Car Park Structure Design Our solutions are widely known for economical and fast construction. Our structural design is based on latest IS codes. We make use of high-grade concrete and steel bars procured from the most authorized vendors in the industry.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Fast Construction",
+        "Economical Solutions",
+        "IS Code Compliance",
+        "High-Quality Materials",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -346,10 +346,10 @@ function StructuralDesign() {
       description:
         "Engineering Design Consultancy involves providing expert design solutions for a wide range of structural projects. I specialize in the design of RCC (Reinforced Cement Concrete), steel, and PEB (Pre-Engineered Building) structures, offering tailored engineering services to meet the unique needs of industrial and commercial projects.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Expert Design Solutions",
+        "RCC, Steel, PEB",
+        "Tailored Engineering",
+        "Industrial & Commercial",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -365,10 +365,10 @@ function StructuralDesign() {
       description:
         "Industrial Building Design involves the specialized planning and structural engineering of facilities such as factories, warehouses, workshops, and plants. My expertise lies in designing RCC (Reinforced Cement Concrete), steel, and PEB (Pre-Engineered Building) structures tailored to industrial requirements.",
       features: [
-        "Single Color",
-        "Reliable Performance",
-        "Cost Effective",
-        "Easy Maintenance",
+        "Specialized Planning",
+        "Structural Expertise",
+        "RCC, Steel, PEB",
+        "Industry-Specific Design",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -384,10 +384,10 @@ function StructuralDesign() {
       description:
         "Structural Restoration Services focus on repairing, strengthening, and restoring damaged or deteriorated structures to their original or improved condition. While carefully considering the exact requirements of our customers, we offer tailored solutions that address structural issues caused by age, environmental factors, wear and tear, or design flaws.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Damage Repair",
+        "Structural Strengthening",
+        "Tailored Solutions",
+        "Longevity Enhancement",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -403,10 +403,10 @@ function StructuralDesign() {
       description:
         "Our team of efficient service personnel is adapt on offering effective Fabrication Drawing Services. They have gained valuable expertise in meeting the clients requirements and keep up to date with the latest technologies.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Accurate Drafting",
+        "Skilled Personnel",
+        "Client-Centric Approach",
+        "Latest Technology",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -420,10 +420,10 @@ function StructuralDesign() {
       description:
         "We are giving engineering services and detail engineering for medium and small size of process industries as per national/international standard for the requirement of automation/instrumentation",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Process Industry Focus",
+        "Automation Support",
+        "Standards Compliance",
+        "Instrumentation Design",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -437,10 +437,10 @@ function StructuralDesign() {
       description:
         "With immense industry experience, we are offering a beautiful range of Engineering Design Services. These services can be avail in customized options as per the needs of clients.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Industry Experience",
+        "Custom Design Solutions",
+        "Client-Centric Approach",
+        "Versatile Applications",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
