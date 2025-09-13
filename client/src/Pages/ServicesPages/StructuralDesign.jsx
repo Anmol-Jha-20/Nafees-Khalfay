@@ -472,10 +472,10 @@ function StructuralDesign() {
       description:
         "Commercial Building Design involves the planning and structural engineering of spaces intended for business and public use. We specialize in designing all types of commercial buildings, including shopping complexes, showrooms, malls, mixed-use developments, and office buildings.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Efficient Space Planning",
+        "Structural Integrity",
+        "Modern Aesthetics",
+        "Code Compliance",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -491,10 +491,10 @@ function StructuralDesign() {
       description:
         "Prefabricated Steel Buildings are modern, efficient structures built using factory-manufactured steel components that are assembled on-site. These buildings are known for their strength, durability, quick installation, and cost-effectiveness.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Quick Installation",
+        "High Durability",
+        "Cost Efficiency",
+        "Modular Construction",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -508,10 +508,10 @@ function StructuralDesign() {
       description:
         "CAD Design Services involve the use of advanced computer-aided design software to create precise and detailed drawings for architectural, structural, and engineering projects. With rich industry experience and deep technical knowledge, we offer a comprehensive range of CAD solutions tailored to meet the diverse needs of our clients across various sectors.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Precision Drafting",
+        "Detailed Visualization",
+        "Custom Solutions",
+        "Technical Accuracy",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -527,10 +527,10 @@ function StructuralDesign() {
       description:
         "Our Building Structural Design Service offers end-to-end structural engineering solutions for residential, commercial, and industrial buildings. We specialize in creating safe, efficient, and cost-effective structural systems tailored to each project's unique requirements.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Safety Focused",
+        "Cost Effective",
+        "Custom Engineering",
+        "Structural Efficiency",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -546,10 +546,10 @@ function StructuralDesign() {
       description:
         "Our Prefabricated Factory Shed solutions are designed to meet the demands of modern industrial operations, offering quick installation, cost efficiency, and long-term durability. These sheds are manufactured using high-quality steel components and are assembled on-site, significantly reducing construction time compared to traditional methods.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Rapid Installation",
+        "Industrial-Grade Durability",
+        "Cost Effective",
+        "Low Maintenance",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -563,10 +563,10 @@ function StructuralDesign() {
       description:
         "We specialize in the manufacturing of high-quality structural sheds, crafted using premium-grade materials and advanced fabrication techniques. Our sheds are designed and built in compliance with the latest industry standards, ensuring durability, safety, and long-term performance.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Premium Materials",
+        "Engineered Precision",
+        "Long-Term Durability",
+        "Safety Compliant",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -580,10 +580,10 @@ function StructuralDesign() {
       description:
         "Banking on our rich industrial experiences, we have been providing  Detail Engineering Service. Offered service include a seamless integration of basic engineering through a common design database, which provides consistent and correct data in all the design deliverables and design cycle.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Integrated Design",
+        "Data Consistency",
+        "Accurate Deliverables",
+        "Process Optimization",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -597,10 +597,10 @@ function StructuralDesign() {
       description:
         "Our offered Tensile Fabric  Structure Designing Service consists of engineers that work best and combines ideas with workshop concepts. Furthermore, we are focused on offering high-grade solutions with architectural eye-catchers and combine elegance with innovative technology.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Architectural Elegance",
+        "Innovative Design",
+        "Lightweight Structures",
+        "Durable Materials",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -614,10 +614,10 @@ function StructuralDesign() {
       description:
         "Industrial Engineering Service offered involves our expertise in offering strategic consulting and engineering services for industrial sector. Widely demanded in various engineering sectors, this service is rendered to manage coordination of human",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Process Optimization",
+        "Strategic Planning",
+        "Resource Efficiency",
+        "System Integration",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",
@@ -631,10 +631,10 @@ function StructuralDesign() {
       description:
         "Our Shop Structure Design Services offer innovative, functional, and cost-effective structural solutions for all types of commercial shops and retail spaces. Whether you're planning a small retail outlet, showroom, or complex multi-unit commercial space, we provide expert design services tailored to your specific needs.",
       features: [
-        "Timely delivery",
-        "Affordable price",
-        "Ensures reliability",
-        "Quality resources used",
+        "Functional Layouts",
+        "Cost-Effective Solutions",
+        "Custom Design",
+        "Retail Optimization",
       ],
       price: "Get Latest Price",
       originalPrice: "₹15,00,000",

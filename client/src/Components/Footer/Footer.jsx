@@ -9,6 +9,8 @@ import {
   MessageCircle,
   Users,
 } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
+import { MdCall, MdEmail } from "react-icons/md";
 
 const Footer = () => {
   return (
@@ -142,6 +144,42 @@ const Footer = () => {
                 Contact
               </a>
             </nav>
+          </div>
+
+          <div className="fixed bottom-6 left-0 z-50">
+            <button
+              onClick={() =>
+                window.open(
+                  "https://wa.me/919920835501?text=Hey!%20I%20am%20interested%20in%20your%20services.",
+                  "_blank"
+                )
+              }
+              className="bg-green-600 hover:bg-green-700 cursor-pointer text-white p-4 rounded-full shadow-lg transition-all duration-300 transform hover:scale-110 animate-bounce"
+              aria-label="Need Help?"
+            >
+              <FaWhatsapp size={24} />
+            </button>
+          </div>
+          <div className="fixed bottom-6 right-0 z-50">
+            <button
+              onClick={() => (window.location.href = "tel:9920215501")}
+              className="bg-[#F0B100] cursor-pointer text-white p-4 rounded-full shadow-lg transition-all duration-300 transform hover:scale-110 animate-bounce"
+              aria-label="Need Help?"
+            >
+              <MdCall size={24} />
+            </button>
+          </div>
+
+          <div className="fixed bottom-28 right-0 z-50">
+            <button
+              onClick={() =>
+                (window.location.href = "mailto:nkpebdesign@yahoo.com")
+              }
+              className="bg-[#F0B100] cursor-pointer text-white p-4 rounded-full shadow-lg transition-all duration-300 transform hover:scale-110 animate-bounce"
+              aria-label="Email Us"
+            >
+              <MdEmail size={24} />
+            </button>
           </div>
 
           {/* Right Column - Our Services */}
