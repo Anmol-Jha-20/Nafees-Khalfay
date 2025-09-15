@@ -13,8 +13,8 @@ const HeroCarousel = () => {
   const slides = [
     {
       id: 1,
-      title: "Your Construction Partner",
-      subtitle: "Our Customer Satisfaction",
+      title: "Quality Service",
+      subtitle: "Competitive Design",
       description:
         "Nafees Khalfay – Pioneering Structural & P.E.B. Solutions with Vision, Precision, and Excellence since 2007.",
       image: HeroImage,
@@ -31,8 +31,8 @@ const HeroCarousel = () => {
     },
     {
       id: 3,
-      title: "Your Thought We Build",
-      subtitle: "Construction Solution",
+      title: "YOUR THOUGHTS",
+      subtitle: "OUR VISION",
       description:
         "Nafees Khalfay – Pioneering Structural & P.E.B. Solutions with Vision, Precision, and Excellence since 2007.",
       image: HeroImage3,

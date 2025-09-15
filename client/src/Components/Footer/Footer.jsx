@@ -102,28 +102,28 @@ const Footer = () => {
 
             <nav className="space-y-3">
               <a
-                href="#"
+                href="/"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Home
               </a>
               <a
-                href="#"
+                href="/about-us"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 About Us
               </a>
               <a
-                href="#"
+                href="/structural-design-consultant-services"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Our Services
               </a>
               <a
-                href="#"
+                href="/gallery"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
@@ -137,7 +137,7 @@ const Footer = () => {
                 Blog
               </a>
               <a
-                href="#"
+                href="/contact-us"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
@@ -191,49 +191,49 @@ const Footer = () => {
 
             <nav className="space-y-3">
               <a
-                href="#"
+                href="/structural-design-consultant-services"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Structural Design Consultant Services
               </a>
               <a
-                href="#"
+                href="/civil-engineering-service"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Civil Engineering Services
               </a>
               <a
-                href="#"
+                href="/consultancy-services"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Consultancy Services
               </a>
               <a
-                href="#"
+                href="/structural-drawing-service"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Structural Drawing Service
               </a>
               <a
-                href="#"
+                href="/roof-design-services"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Roof Design Services
               </a>
               <a
-                href="#"
+                href="/architectural-services"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
                 Architectural Services
               </a>
               <a
-                href="#"
+                href="/pre-fabricated-structure"
                 className=" text-gray-600 hover:text-yellow-500 transition-colors flex items-center"
               >
                 <span className="text-yellow-400 mr-2">▶</span>
