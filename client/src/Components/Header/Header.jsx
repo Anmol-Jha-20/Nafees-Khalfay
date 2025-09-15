@@ -190,7 +190,7 @@ const Header = () => {
             </a>
 
             <a
-              href="#"
+              href="tel:919920835501"
               className="px-6 py-2 bg-yellow-400 text-gray-900 font-semibold text-sm hover:bg-yellow-500 transition-colors duration-200"
             >
               GET QUOTE
@@ -298,7 +298,7 @@ const Header = () => {
               </a>
 
               <a
-                href="#"
+                href="tel:919920835501"
                 className="block py-3 px-4 bg-yellow-400 text-white font-semibold text-base hover:bg-yellow-500 transition-colors duration-200 rounded-md text-center"
               >
                 GET QUOTE
