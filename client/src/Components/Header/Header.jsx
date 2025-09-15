@@ -230,13 +230,13 @@ const Header = () => {
               <div className="flex items-center space-x-2 mb-2">
                 <Phone className="w-4 h-4 text-yellow-500" />
                 <span className="text-sm font-medium text-gray-900">
-                  +9090 8080 4044
+                  +9199 2083 5501
                 </span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-4 h-4 text-yellow-500" />
                 <span className="text-sm font-medium text-gray-900">
-                  Pensilvenia Avenue, NY
+                  Andheri (West) Mumbai-400058
                 </span>
               </div>
             </div>
